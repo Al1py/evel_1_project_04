@@ -13,7 +13,7 @@ This project displays a selection of products in a clean and modern `GridView` l
   - A search bar.
   - A cart icon with notification badge.
   - A grid view of product cards.
-- ✅ Product images are stored in `assets/img`.
+- ✅ Product images are stored in `assets/screenshots`.
 
 ---
 
