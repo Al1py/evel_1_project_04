@@ -15,6 +15,9 @@ This project displays a selection of products in a clean and modern `GridView` l
   - A grid view of product cards.
 - ✅ Product images are stored in `assets/screenshots`.
 
+## Screenshots
+![Home_Screen](assets/screenshots/Screenshot_20250709_151215.png)
+
 ---
 
 ## 🎯 Purpose
